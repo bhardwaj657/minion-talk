@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,558&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: rgba(7, 6, 6, 0.801);
+    color: blanchedalmond;
+    height: 5rem;
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding-top: 2rem;
+    font-size: 2rem;
+    font-family: 'Lora', serif;
+}
+textarea{
+    display: block;
+    margin: 16px auto;
+    width: 39rem;
+    height: 14rem;
+}
+button{
+    display: block;
+    margin: auto;
+    padding: 6px;
+    font-size: 2rem;
+    border-radius: 14px;
+    color: whitesmoke;
+    background-color: black;
+}
+#output-txt{
+    padding: 2rem;
+    height: 15rem;
+    width: 629px;
+    margin: 36px auto;
+    border: 2px solid black;
+    border-radius: 15px;
+
+}
